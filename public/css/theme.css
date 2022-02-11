@@ -1,0 +1,9 @@
+.header__image {
+    object-fit: cover;
+}
+
+.footer {
+    background-color: #131313;
+    background-image: url('../img/footer-background.png');
+    background-repeat: no-repeat;
+}
